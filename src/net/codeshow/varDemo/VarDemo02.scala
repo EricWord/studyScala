@@ -1,4 +1,4 @@
-package net.codeshow.varDemo01
+package net.codeshow.varDemo
 
 object VarDemo02 {
 
