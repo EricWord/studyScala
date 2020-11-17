@@ -1,7 +1,7 @@
 package net.codeshow.constructor
 
 //构造器
-object ConDemo01 {
+object ConDemo03 {
   def main(args: Array[String]): Unit = {
 //    val p1 = new Person("jack", 20)
 //    println(p1)
