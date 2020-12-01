@@ -6,9 +6,7 @@ object OperatorOverload {
     cat + 10
     cat.+(9) //这种用法也可以
     println("cat.age=" + cat.age)
-
   }
-
 }
 
 class Cat {
@@ -16,6 +14,5 @@ class Cat {
 
   def +(n: Int): Unit = {
     this.age += n
-
   }
 }
