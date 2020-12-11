@@ -12,12 +12,6 @@ object ParameterInfer01 {
     //再简写
     println(list.map(_ + 1))
 
-
     println(list.sum)//与这种方式等价println(list.reduce(_+_))
-
-
-
-
   }
-
 }
